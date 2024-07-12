@@ -1,5 +1,8 @@
 {
+  "name": "netease-cloud-music-api",
   "private": true,
+  "type": "module",
+  "packageManager": "pnpm@9.4.0",
   "scripts": {
     "build": "nitro build",
     "dev": "nitro dev",
